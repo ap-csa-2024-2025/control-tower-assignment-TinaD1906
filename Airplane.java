@@ -17,6 +17,7 @@ public class Airplane
   {
     this("AAA01", 1, 0, 0);
   }
+  
 
   public void gainAlt()
   {
